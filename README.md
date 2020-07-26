@@ -11,14 +11,9 @@
 <h4>Then you have custom made buttons to select your weight and age.</h4>
 
 
-
-<div>
-    
-    <img width="229" alt="screenshot0" src="https://user-images.githubusercontent.com/61242108/88484306-ee9ef080-cf6d-11ea-948a-967ffffa0ee6.PNG">
-    
-    <img width="229" alt="screenshot1" src="https://user-images.githubusercontent.com/61242108/88484319-04141a80-cf6e-11ea-81e2-116b3e0368e2.PNG">
-    
-    <img width="228" alt="screenshot2" src="https://user-images.githubusercontent.com/61242108/88484326-0fffdc80-cf6e-11ea-963e-57088bd860d9.PNG">
-
-</div>
+ <img width="229" alt="screenshot0" src="https://user-images.githubusercontent.com/61242108/88484306-ee9ef080-cf6d-11ea-948a-967ffffa0ee6.PNG">
+ <img width="229" alt="screenshot1" src="https://user-images.githubusercontent.com/61242108/88484319-04141a80-cf6e-11ea-81e2-116b3e0368e2.PNG">
+ <img width="229" alt="screenshot1" src="https://user-images.githubusercontent.com/61242108/88484319-04141a80-cf6e-11ea-81e2-116b3e0368e2.PNG">
+ 
+ 
 
